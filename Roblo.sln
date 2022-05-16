@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblo", "Roblo.csproj", "{2414787A-2BBB-405B-B2CA-0F57E149954B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2414787A-2BBB-405B-B2CA-0F57E149954B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2414787A-2BBB-405B-B2CA-0F57E149954B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2414787A-2BBB-405B-B2CA-0F57E149954B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2414787A-2BBB-405B-B2CA-0F57E149954B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37D9768-B5D8-4D09-A42D-C2988D7550D6}
+	EndGlobalSection
+EndGlobal
